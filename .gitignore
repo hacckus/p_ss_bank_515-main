@@ -1,0 +1,9 @@
+# Project exclude paths
+/p_ss_bank_515-main/account/target/
+/p_ss_bank_515-main/antifraud/target/
+/p_ss_bank_515-main/authorization/target/
+/p_ss_bank_515-main/eureka-service/target/
+/p_ss_bank_515-main/history/target/
+/p_ss_bank_515-main/profile/target/
+/p_ss_bank_515-main/public-info/target/
+/p_ss_bank_515-main/transfer/target/
